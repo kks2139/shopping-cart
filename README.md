@@ -2,6 +2,8 @@
 
 #### 조회된 상품목록에서 상품을 고르고 카트에 담는 SPA 입니다.
 
+<img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4cc.png" width=24 height=24> [사이트 링크 (클릭)](https://kks2139.github.io/deploy-shopping-cart/)
+
 ------------------
 
 ### <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/2699.png" width=24 height=24> 앱 특징
