@@ -1,0 +1,538 @@
+{
+    "categories": [
+      {
+        "categoryId": 199,
+        "categoryName": "냠냠 피자",
+        "categoryItems": [
+          {
+            "itemId": 199,
+            "itemName": "아메리칸 피자",
+            "itemPrice": 18900,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "pz_0.jpg",
+            "itemOptions": [
+              {
+                "optionId": 0,
+                "optionName": "선택안함",
+                "optionPrice": 0
+              },
+              {
+                "optionId": 1,
+                "optionName": "베이컨토핑",
+                "optionPrice": 2000
+              },
+              {
+                "optionId": 2,
+                "optionName": "모짜렐라치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 3,
+                "optionName": "체다치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 4,
+                "optionName": "케이준 새우",
+                "optionPrice": 1000
+              }
+            ]
+          },
+          {
+            "itemId": 299,
+            "itemName": "페페로니콘 피자",
+            "itemPrice": 13000,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "pz_1.jpg",
+            "itemOptions": [
+              {
+                "optionId": 0,
+                "optionName": "선택안함",
+                "optionPrice": 0
+              },
+              {
+                "optionId": 1,
+                "optionName": "베이컨토핑",
+                "optionPrice": 2000
+              },
+              {
+                "optionId": 2,
+                "optionName": "모짜렐라치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 3,
+                "optionName": "체다치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 4,
+                "optionName": "케이준 새우",
+                "optionPrice": 1000
+              }
+            ]
+          },
+          {
+            "itemId": 399,
+            "itemName": "고르곤졸라 피자",
+            "itemPrice": 15900,
+            "itemSoldOutFlag": true,
+            "itemImageUrl": "pz_2.jpg",
+            "itemOptions": [
+              {
+                "optionId": 0,
+                "optionName": "선택안함",
+                "optionPrice": 0
+              },
+              {
+                "optionId": 1,
+                "optionName": "베이컨토핑",
+                "optionPrice": 2000
+              },
+              {
+                "optionId": 2,
+                "optionName": "모짜렐라치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 3,
+                "optionName": "체다치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 4,
+                "optionName": "케이준 새우",
+                "optionPrice": 1000
+              }
+            ]
+          },
+          {
+            "itemId": 499,
+            "itemName": "치즈치즈 피자",
+            "itemPrice": 14000,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "pz_3.jpg",
+            "itemOptions": [
+              {
+                "optionId": 0,
+                "optionName": "선택안함",
+                "optionPrice": 0
+              },
+              {
+                "optionId": 1,
+                "optionName": "베이컨토핑",
+                "optionPrice": 2000
+              },
+              {
+                "optionId": 2,
+                "optionName": "모짜렐라치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 3,
+                "optionName": "체다치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 4,
+                "optionName": "케이준 새우",
+                "optionPrice": 1000
+              }
+            ]
+          },
+          {
+            "itemId": 599,
+            "itemName": "콤비네이션 피자",
+            "itemPrice": 11000,
+            "itemSoldOutFlag": true,
+            "itemImageUrl": "pz_4.jpg",
+            "itemOptions": [
+              {
+                "optionId": 0,
+                "optionName": "선택안함",
+                "optionPrice": 0
+              },
+              {
+                "optionId": 1,
+                "optionName": "베이컨토핑",
+                "optionPrice": 2000
+              },
+              {
+                "optionId": 2,
+                "optionName": "모짜렐라치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 3,
+                "optionName": "체다치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 4,
+                "optionName": "케이준 새우",
+                "optionPrice": 1000
+              }
+            ]
+          },
+          {
+            "itemId": 699,
+            "itemName": "불고기 피자",
+            "itemPrice": 13000,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "pz_5.jpg",
+            "itemOptions": [
+              {
+                "optionId": 0,
+                "optionName": "선택안함",
+                "optionPrice": 0
+              },
+              {
+                "optionId": 1,
+                "optionName": "베이컨토핑",
+                "optionPrice": 2000
+              },
+              {
+                "optionId": 2,
+                "optionName": "모짜렐라치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 3,
+                "optionName": "체다치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 4,
+                "optionName": "케이준 새우",
+                "optionPrice": 1000
+              }
+            ]
+          },
+          {
+            "itemId": 799,
+            "itemName": "하와이안 피자",
+            "itemPrice": 13000,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "pz_6.jpg",
+            "itemOptions": [
+              {
+                "optionId": 0,
+                "optionName": "선택안함",
+                "optionPrice": 0
+              },
+              {
+                "optionId": 1,
+                "optionName": "베이컨토핑",
+                "optionPrice": 2000
+              },
+              {
+                "optionId": 2,
+                "optionName": "모짜렐라치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 3,
+                "optionName": "체다치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 4,
+                "optionName": "케이준 새우",
+                "optionPrice": 1000
+              }
+            ]
+          },
+          {
+            "itemId": 899,
+            "itemName": "포테이토 피자",
+            "itemPrice": 13000,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "pz_7.jpg",
+            "itemOptions": [
+              {
+                "optionId": 0,
+                "optionName": "선택안함",
+                "optionPrice": 0
+              },
+              {
+                "optionId": 1,
+                "optionName": "베이컨토핑",
+                "optionPrice": 2000
+              },
+              {
+                "optionId": 2,
+                "optionName": "모짜렐라치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 3,
+                "optionName": "체다치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 4,
+                "optionName": "케이준 새우",
+                "optionPrice": 1000
+              }
+            ]
+          },
+          {
+            "itemId": 8999,
+            "itemName": "핫핫 피자",
+            "itemPrice": 13000,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "pz_8.jpg",
+            "itemOptions": [
+              {
+                "optionId": 0,
+                "optionName": "선택안함",
+                "optionPrice": 0
+              },
+              {
+                "optionId": 1,
+                "optionName": "베이컨토핑",
+                "optionPrice": 2000
+              },
+              {
+                "optionId": 2,
+                "optionName": "모짜렐라치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 3,
+                "optionName": "체다치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 4,
+                "optionName": "케이준 새우",
+                "optionPrice": 1000
+              }
+            ]
+          },
+          {
+            "itemId": 89999,
+            "itemName": "파프리카치즈 피자",
+            "itemPrice": 13000,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "pz_9.jpg",
+            "itemOptions": [
+              {
+                "optionId": 0,
+                "optionName": "선택안함",
+                "optionPrice": 0
+              },
+              {
+                "optionId": 1,
+                "optionName": "베이컨토핑",
+                "optionPrice": 2000
+              },
+              {
+                "optionId": 2,
+                "optionName": "모짜렐라치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 3,
+                "optionName": "체다치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 4,
+                "optionName": "케이준 새우",
+                "optionPrice": 1000
+              }
+            ]
+          },
+          {
+            "itemId": 899999,
+            "itemName": "핫페퍼 피자",
+            "itemPrice": 13000,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "pz_10.jpg",
+            "itemOptions": [
+              {
+                "optionId": 0,
+                "optionName": "선택안함",
+                "optionPrice": 0
+              },
+              {
+                "optionId": 1,
+                "optionName": "베이컨토핑",
+                "optionPrice": 2000
+              },
+              {
+                "optionId": 2,
+                "optionName": "모짜렐라치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 3,
+                "optionName": "체다치즈",
+                "optionPrice": 1000
+              },
+              {
+                "optionId": 4,
+                "optionName": "케이준 새우",
+                "optionPrice": 1000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryId": 1,
+        "categoryName": "냠냠 파스타",
+        "categoryItems": [
+          {
+            "itemId": 1,
+            "itemName": "새우 파스타",
+            "itemPrice": 8900,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "sp_0.jpg",
+            "itemOptions": []
+          },
+          {
+            "itemId": 2,
+            "itemName": "굵은면 파스타",
+            "itemPrice": 3000,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "sp_1.jpg",
+            "itemOptions": []
+          },
+          {
+            "itemId": 3,
+            "itemName": "해물 파스타",
+            "itemPrice": 5900,
+            "itemSoldOutFlag": true,
+            "itemImageUrl": "sp_2.jpg",
+            "itemOptions": []
+          },
+          {
+            "itemId": 4,
+            "itemName": "토마토베이컨 파스타",
+            "itemPrice": 4000,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "sp_3.jpg",
+            "itemOptions": []
+          },
+          {
+            "itemId": 5,
+            "itemName": "토마토 파스타",
+            "itemPrice": 1000,
+            "itemSoldOutFlag": true,
+            "itemImageUrl": "sp_4.jpg",
+            "itemOptions": []
+          },
+          {
+            "itemId": 6,
+            "itemName": "알리올리오",
+            "itemPrice": 3000,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "sp_5.jpg",
+            "itemOptions": []
+          }
+        ]
+      },
+      {
+        "categoryId": 2,
+        "categoryName": "사이드 메뉴",
+        "categoryItems": [
+          {
+            "itemId": 7,
+            "itemName": "볶음밥",
+            "itemPrice": 6900,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "side_0.jpg",
+            "itemOptions": []
+          },
+          {
+            "itemId": 8,
+            "itemName": "새우튀김",
+            "itemPrice": 4500,
+            "itemSoldOutFlag": true,
+            "itemImageUrl": "side_1.jpg",
+            "itemOptions": []
+          },
+          {
+            "itemId": 9,
+            "itemName": "막국수",
+            "itemPrice": 4900,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "side_2.jpg",
+            "itemOptions": []
+          },
+          {
+            "itemId": 10,
+            "itemName": "알후라이",
+            "itemPrice": 6900,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "side_3.jpg",
+            "itemOptions": []
+          },
+          {
+            "itemId": 11,
+            "itemName": "미트볼",
+            "itemPrice": 7500,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "side_4.jpg",
+            "itemOptions": []
+          },
+          {
+            "itemId": 12,
+            "itemName": "치즈감자튀김",
+            "itemPrice": 5500,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "side_5.jpg",
+            "itemOptions": []
+          }
+        ]
+      },
+      {
+        "categoryId": 288,
+        "categoryName": "음료 / 주류",
+        "categoryItems": [
+          {
+            "itemId": 788,
+            "itemName": "딸기쉐이크",
+            "itemPrice": 6900,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "dr_0.jpg",
+            "itemOptions": []
+          },
+          {
+            "itemId": 888,
+            "itemName": "맥주",
+            "itemPrice": 4500,
+            "itemSoldOutFlag": true,
+            "itemImageUrl": "dr_1.jpg",
+            "itemOptions": []
+          },
+          {
+            "itemId": 988,
+            "itemName": "자몽에이드",
+            "itemPrice": 4900,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "dr_2.jpg",
+            "itemOptions": []
+          },
+          {
+            "itemId": 1088,
+            "itemName": "쿨라임피지오",
+            "itemPrice": 6900,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "dr_3.jpg",
+            "itemOptions": []
+          },
+          {
+            "itemId": 1188,
+            "itemName": "콜라",
+            "itemPrice": 7500,
+            "itemSoldOutFlag": false,
+            "itemImageUrl": "dr_4.jpg",
+            "itemOptions": []
+          }
+        ]
+      }
+    ]
+  }
